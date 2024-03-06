@@ -1,5 +1,3 @@
-Absolutely! We can use a public dataset from BigQuery for the demonstration. Let's use the `bigquery-public-data.samples.natality` dataset for the sales data example. Although this dataset doesn't directly represent sales data, we can modify it for our demo purposes to show trends over time.
-
 ### Step 1: Introducing the Challenges
 #### Script:
 "Welcome to our demonstration on leveraging BigQuery and Looker Studio for advanced analytics and visualization. Meet our data analyst, Sarah. She's facing common challenges in the world of data analysis: massive datasets with complex structures, scalability concerns, and the demand for advanced analytics and visualization tools."
